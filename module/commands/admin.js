@@ -36,24 +36,23 @@ var link = ["https://i.postimg.cc/j5MM8dgn/Picsart-24-12-23-11-23-30-237.jpg",
 
 ❣️❤️ENJOY MUCH MUCH ❤️❣️
 
-❌THis Bot Made By : MOHAMMAD ANIK❤️❣️
+❌THis Bot Made By : MOHAMMAD RAKIB❤️❣️
 
 🔰THIS IS BANGLA AI BOT 🔰
 
 BOT NAME : ${global.config.BOTNAME}
 
-💖TAKE LOVE FROM ANIK-BOT💖
+💖TAKE LOVE FROM RAKIB-BOT💖
 
 🌺ব্যবহারে মানুষ চেনা যায় ✔️
 
-⚠️BOT: ADMIN: MOHAMMAD ANIK⚠️
+⚠️BOT: ADMIN: MOHAMMAD RAKIB⚠️
 
 ⚠️BOT:MAIN ADMIN: MOHAMMAD ANIK⚠️
 
-⚠️WHATSAPP: wa.me/+601161213515⚠️
+⚠️WHATSAPP: N/A⚠️
 
-⛔FACEBOOK : https://www.facebook.com/LostFragmentX
-
+⛔FACEBOOK : https://www.facebook.com/profile.php?id=100081168924594&mibextid=ZbWKwL
 🕌💪 POWER OF MUSLIM 🕋🕌
 
 
